@@ -1,0 +1,10 @@
+
+vault:
+  host: http://127.0.0.1:8200
+  token: s.gWBJ1c6sn7iLqZWf7skEbmAo
+
+logging:
+  level:
+    root: ERROR
+    org.springframework.web: DEBUG
+    org.hibernate: ERROR
